@@ -1,0 +1,8 @@
+langchain
+python-dotenv  ## to import everthing from the .env file
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-text-splitters
